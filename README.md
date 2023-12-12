@@ -1,4 +1,4 @@
-# Federated Learning MNIST Example
+# Federated Learning MNIST
 
 This is an example of federated learning on the MNIST dataset using Flower and Scikit-Learn.
 
